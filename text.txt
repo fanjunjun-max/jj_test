@@ -1,1 +1,18 @@
-   zhe shi yi ge ce shi wen jian
+directory目录
+contents内容
+clone克隆
+no such file or directory 没有找到这样的目录
+illegal option非法选项
+File exists文件存在
+Permission denied 被拒绝的权限
+git clone 克隆/拷贝，将云项目拷贝到本地
+git status 查看当前修改状态，即本地仓库和远程仓库的区别
+git add <filename>添加文件
+git commit -m"添加此次提交的修改目的"
+git push 推送到远程服务器
+desktop桌面
+Android安卓
+arguments参数
+remote远程仓
+repository
+w+Q  保存并退出
